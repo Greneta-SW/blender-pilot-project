@@ -1,1 +1,1 @@
-# blender-pilot-project
+# blender-service-sample
